@@ -22,7 +22,14 @@ import GradientParticles from './GradientParticles.vue'
 
           Come join us, meet fellow coders, and let’s make coding a little less intimidating and a lot more exciting!
         </p>
-        <button class="btn btn-primary">join now</button>
+        <button class="btn btn-primary"><a 
+    href="https://chat.whatsapp.com/CL9WDCnQhtiEWDTIHiOC2v?mode=ems_wa_t" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    class="block w-full h-full"
+  >
+    join now
+  </a></button>
       </div>
     </div>
   </div>
